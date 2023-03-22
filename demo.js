@@ -1,3 +1,4 @@
-console.log("hello");
-console.log(3*3);
-// alert("hello");
+// console.log("hello");
+prompt("Enter your massage");
+alert("Hello");
+alert("Have a nice time!");
